@@ -14,7 +14,7 @@ current_url=""
 queue=()
 favorites=()
 is_playing=false
-download_dir="$HOME/yt_music_downloads"
+download_dir="$/home/Public/yt_music_player/downloads"
 
 # Create download directory if it doesn't exist
 mkdir -p "$download_dir"
